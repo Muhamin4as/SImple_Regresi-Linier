@@ -1,2 +1,1 @@
-# SImple_Regresi-Linier
-Algoritma Simple Regresi-Linier
+Dalam bidang Statistik, regresi linier merupakan suatu metode untuk menggambarkan hubungan antara satu atau lebih variabel dependen dengan satu atau lebih variabel independen. Regresi linier sederhana melibatkan satu variabel independen, sedangkan regresi linier banyak melibatkan lebih dari satu variabel independen. Salah satu manfaat dari regresi linier adalah untuk memprediksi nilai berdasarkan data yang sudah ada. Jika hubungan antar variabel dapat dijelaskan dengan persamaan  garis lurus, maka model yang menggambarkan hubungan tersebut disebut sebagai model regresi linier
